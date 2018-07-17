@@ -159,7 +159,8 @@ iframe, audio {
     display: block;
     margin: 0 auto;
     border: 3px solid;
-    color: tomato;
+    background:-webkit-linear-gradient(#5500AA 50% ,#1595EA);
+    color: #1595EA ;
 }
 #youtube {
   margin-top: 15px;
@@ -175,7 +176,7 @@ iframe, audio {
 }
 #youtube .container h2 {
   text-align: center;
-  color: tomato;
+  color: #1595EA;
 }
 
 /*farmes end */
