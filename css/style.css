@@ -235,10 +235,11 @@ footer{
   padding:20px;
   margin-top:20px;
   color:#ffffff;  
-  background: -webkit-linear-gradient(#5500AA 50% ,#1595EA);
-  background: -moz-linear-gradient(#5500AA 50% , #1595EA);
-  background: -o-linear-gradient(#5500AA 50%, #1595EA);
-  background: -ms-linear-gradient(#5500AA 50%,#1595EA);
+  background: -webkit-linear-gradient(#1595EA  ,#5500AA 80%);
+  background: -moz-linear-gradient(#1595EA  , #5500AA 80%);
+  background: -o-linear-gradient(#1595EA  #5500AA 80%,);
+  background: -ms-linear-gradient(#1595EA ,#5500AA 80%);
+
   text-align: center;
 }
 
